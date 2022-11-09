@@ -1,3 +1,9 @@
+V 1.0.5.79
+--> S5, S10, S11, S14, S15b, intros.cfg
+    --> Encoding of Files have been forced to utf-8
+--> Saurian Seer: deleted unit.
+    --> Already present in WoL
+
 V 1.0.5.78
 - General
     --> S1: made AI Ally more aggressive
