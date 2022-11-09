@@ -1,3 +1,23 @@
+V 1.0.5.78
+- General
+    --> S1: made AI Ally more aggressive
+    --> S2, S4, S6B, S9: text typo fixes.
+    --> Units:
+        --> Hero: Akashia
+            Deva's Fury has attack-only special now.
+            This fixes her degraded functionality when she gains it
+            It was apparent that this was the her goto retaliation attack and this made
+            a walking defeat-condition during late game. So, making it offense-only.
+        --> Hero: Veela
+            Removed Melee AMLA...I mean why...revan...just why?
+
+V 1.0.5.77
+- General
+    --> Uploaded to Wesnoth 1.16.x Add-ons server
+    --> Campaign maintanence transfered to the Wesnoth UMC Discord Server: where UMC authors are invited to join.
+
+
+
 V. 1.0.4
 
 - General
