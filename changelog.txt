@@ -1,3 +1,6 @@
+V 1.0.5.80
+--> S14: Made allied AI leaders non-suicidal
+
 V 1.0.5.79
 --> S5, S10, S11, S14, S15b, intros.cfg
     --> Encoding of Files have been forced to utf-8
