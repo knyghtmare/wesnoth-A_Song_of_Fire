@@ -1,3 +1,6 @@
+V 1.0.5.81
+--> S19: fix typo in dialogue
+
 V 1.0.5.80
 --> S14: Made allied AI leaders non-suicidal
 
