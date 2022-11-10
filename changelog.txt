@@ -1,3 +1,6 @@
+V 1.0.5.82
+S24: fixed a typo.
+
 V 1.0.5.81
 --> S19: fix typo in dialogue
 --> Changed converted special characters (special thanks to oooo)
