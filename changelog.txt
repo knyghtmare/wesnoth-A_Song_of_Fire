@@ -1,3 +1,5 @@
+V 1.0.5.83
+
 V 1.0.5.82
 S24: fixed a typo.
 Alenya: AMLA no longer gives her slows+slows+magical
