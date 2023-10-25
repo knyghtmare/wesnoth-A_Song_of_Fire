@@ -1,3 +1,8 @@
+V 1.0.5.83
+S30, S24: too typo fixes
+Heroes:
+    Akashia: level 3 no longer has berserker weapon on retaliation
+
 V 1.0.5.82
 S24: fixed a typo.
 Alenya: AMLA no longer gives her slows+slows+magical
