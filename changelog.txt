@@ -1,3 +1,6 @@
+V 1.0.6
+--> Ported to 1.17/1.18 servers
+
 V 1.0.5.83
 S30, S24: too typo fixes
 Heroes:
