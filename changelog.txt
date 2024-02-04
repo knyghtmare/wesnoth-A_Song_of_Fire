@@ -1,3 +1,6 @@
+V 1.0.7
+--> Update ^Uf > ^Tf
+
 V 1.0.6
 --> Ported to 1.17/1.18 servers
 --> generated Pot file for translations
