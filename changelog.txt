@@ -1,3 +1,13 @@
+Changelog
+
+V 1.0.8
+- Scenarios:
+	- Saurian leaders from scenario 9 onwards are all lvl 3 (some were lvl 2)
+	- In later scenarios, Dvalin and his dwarves should now always appear fully healed
+- Units
+	- Alenya's melee amla no longer adds 'magical' twice
+	- Made Seraphs stronger
+
 V 1.0.7
 --> Update ^Uf > ^Tf
 
