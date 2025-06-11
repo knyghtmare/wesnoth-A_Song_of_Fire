@@ -1,5 +1,8 @@
 Changelog
 
+v 1.0.9
+- Fixed Bug that broke campaign
+
 V 1.0.8
 - Scenarios:
 	- Saurian leaders from scenario 9 onwards are all lvl 3 (some were lvl 2)
