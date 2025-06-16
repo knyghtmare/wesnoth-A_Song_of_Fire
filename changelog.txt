@@ -1,5 +1,26 @@
 Changelog
 
+v 1.0.10
+- Deprecation fixes
+- Remove duplicate images with WoL and add missing ones
+- Fixed warg sounds.
+- Clear uncleared variables
+- Scenarios:
+   - Fixed Saurian leader killable before the saurians steal the Book of the Dead in scenario 4.
+   - Fixed enemy defeatable before Khrakrahs appears in scenario 4.
+   - Fixed enemy leader spawning on non-castle hexes in scenario 13.
+   - Fixed scenario beatable before Shek'kahan appears in scenario 13.
+   - Fixed enemies defeatable before the Sky Dragon appears in scenario 14.
+   - Fixed Shek'har killable before the Hannuks in scenario 18.
+   - Fixed Mermen buyable with negative gold in scenario 25.
+   - Fixed to small trigger zone in scenario 21.
+   - Fixed healing in scenario 30.
+   - Fixed Lumens killable before end of turns in scenario 32.
+- Fixed duplicate Soul Explosion attack for Myra. 
+
+v 1.0.9
+- Fixed Bug that broke campaign
+
 V 1.0.8
 - Scenarios:
 	- Saurian leaders from scenario 9 onwards are all lvl 3 (some were lvl 2)
