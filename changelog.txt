@@ -1,5 +1,9 @@
 Changelog
 
+v 1.0.11
+- Scenarios:
+    - Fixed scenario 32 being broken by bugfix of version 1.0.10.
+
 v 1.0.10
 - Deprecation fixes
 - Remove duplicate images with WoL and add missing ones
