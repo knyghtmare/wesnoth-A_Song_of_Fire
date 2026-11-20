@@ -1,6 +1,6 @@
 Changelog
 
-v1.0.12
+v1.0.17
 - Fix the Wilderness ending not triggering if Krinex is defeated after having found the entrance of the cave. 
 
 v 1.0.11
