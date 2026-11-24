@@ -1,5 +1,8 @@
 Changelog
 
+v1.0.18
+Update to latest WoL
+
 v1.0.17
 - Fix the Wilderness ending not triggering if Krinex is defeated after having found the entrance of the cave. 
 
